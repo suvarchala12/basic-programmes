@@ -1,0 +1,15 @@
+C:\Users\user\desktop\vs\basic programmes\factors\bin\Debug\net6.0\factors.exe
+C:\Users\user\desktop\vs\basic programmes\factors\bin\Debug\net6.0\factors.deps.json
+C:\Users\user\desktop\vs\basic programmes\factors\bin\Debug\net6.0\factors.runtimeconfig.json
+C:\Users\user\desktop\vs\basic programmes\factors\bin\Debug\net6.0\factors.dll
+C:\Users\user\desktop\vs\basic programmes\factors\bin\Debug\net6.0\ref\factors.dll
+C:\Users\user\desktop\vs\basic programmes\factors\bin\Debug\net6.0\factors.pdb
+C:\Users\user\desktop\vs\basic programmes\factors\obj\Debug\net6.0\factors.csproj.AssemblyReference.cache
+C:\Users\user\desktop\vs\basic programmes\factors\obj\Debug\net6.0\factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\desktop\vs\basic programmes\factors\obj\Debug\net6.0\factors.AssemblyInfoInputs.cache
+C:\Users\user\desktop\vs\basic programmes\factors\obj\Debug\net6.0\factors.AssemblyInfo.cs
+C:\Users\user\desktop\vs\basic programmes\factors\obj\Debug\net6.0\factors.csproj.CoreCompileInputs.cache
+C:\Users\user\desktop\vs\basic programmes\factors\obj\Debug\net6.0\factors.dll
+C:\Users\user\desktop\vs\basic programmes\factors\obj\Debug\net6.0\ref\factors.dll
+C:\Users\user\desktop\vs\basic programmes\factors\obj\Debug\net6.0\factors.pdb
+C:\Users\user\desktop\vs\basic programmes\factors\obj\Debug\net6.0\factors.genruntimeconfig.cache

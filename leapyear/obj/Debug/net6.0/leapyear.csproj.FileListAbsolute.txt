@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\vs\basic programmes\leapyear\bin\Debug\net6.0\leapyear.exe
+C:\Users\user\Desktop\vs\basic programmes\leapyear\bin\Debug\net6.0\leapyear.deps.json
+C:\Users\user\Desktop\vs\basic programmes\leapyear\bin\Debug\net6.0\leapyear.runtimeconfig.json
+C:\Users\user\Desktop\vs\basic programmes\leapyear\bin\Debug\net6.0\leapyear.dll
+C:\Users\user\Desktop\vs\basic programmes\leapyear\bin\Debug\net6.0\ref\leapyear.dll
+C:\Users\user\Desktop\vs\basic programmes\leapyear\bin\Debug\net6.0\leapyear.pdb
+C:\Users\user\Desktop\vs\basic programmes\leapyear\obj\Debug\net6.0\leapyear.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\vs\basic programmes\leapyear\obj\Debug\net6.0\leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\vs\basic programmes\leapyear\obj\Debug\net6.0\leapyear.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\vs\basic programmes\leapyear\obj\Debug\net6.0\leapyear.AssemblyInfo.cs
+C:\Users\user\Desktop\vs\basic programmes\leapyear\obj\Debug\net6.0\leapyear.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\vs\basic programmes\leapyear\obj\Debug\net6.0\leapyear.dll
+C:\Users\user\Desktop\vs\basic programmes\leapyear\obj\Debug\net6.0\ref\leapyear.dll
+C:\Users\user\Desktop\vs\basic programmes\leapyear\obj\Debug\net6.0\leapyear.pdb
+C:\Users\user\Desktop\vs\basic programmes\leapyear\obj\Debug\net6.0\leapyear.genruntimeconfig.cache

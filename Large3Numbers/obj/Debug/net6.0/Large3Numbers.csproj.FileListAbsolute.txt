@@ -1,0 +1,15 @@
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\bin\Debug\net6.0\Large3Numbers.exe
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\bin\Debug\net6.0\Large3Numbers.deps.json
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\bin\Debug\net6.0\Large3Numbers.runtimeconfig.json
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\bin\Debug\net6.0\Large3Numbers.dll
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\bin\Debug\net6.0\ref\Large3Numbers.dll
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\bin\Debug\net6.0\Large3Numbers.pdb
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\obj\Debug\net6.0\Large3Numbers.csproj.AssemblyReference.cache
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\obj\Debug\net6.0\Large3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\obj\Debug\net6.0\Large3Numbers.AssemblyInfoInputs.cache
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\obj\Debug\net6.0\Large3Numbers.AssemblyInfo.cs
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\obj\Debug\net6.0\Large3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\obj\Debug\net6.0\Large3Numbers.dll
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\obj\Debug\net6.0\ref\Large3Numbers.dll
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\obj\Debug\net6.0\Large3Numbers.pdb
+C:\Users\user\desktop\vs\basic programmes\Large3Numbers\obj\Debug\net6.0\Large3Numbers.genruntimeconfig.cache

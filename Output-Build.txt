@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: VowelOrConstant, Configuration: Debug Any CPU ------
+1>C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\Program.cs(9,59,9,66): error CS0103: The name 'ToLower' does not exist in the current context
+1>Done building project "VowelOrConstant.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

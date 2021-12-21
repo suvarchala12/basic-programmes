@@ -1,0 +1,15 @@
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\obj\Debug\net6.0\VowelOrConstant.csproj.AssemblyReference.cache
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\obj\Debug\net6.0\VowelOrConstant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\obj\Debug\net6.0\VowelOrConstant.AssemblyInfoInputs.cache
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\obj\Debug\net6.0\VowelOrConstant.AssemblyInfo.cs
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\obj\Debug\net6.0\VowelOrConstant.csproj.CoreCompileInputs.cache
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\bin\Debug\net6.0\VowelOrConstant.exe
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\bin\Debug\net6.0\VowelOrConstant.deps.json
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\bin\Debug\net6.0\VowelOrConstant.runtimeconfig.json
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\bin\Debug\net6.0\VowelOrConstant.dll
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\bin\Debug\net6.0\ref\VowelOrConstant.dll
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\bin\Debug\net6.0\VowelOrConstant.pdb
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\obj\Debug\net6.0\VowelOrConstant.dll
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\obj\Debug\net6.0\ref\VowelOrConstant.dll
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\obj\Debug\net6.0\VowelOrConstant.pdb
+C:\Users\user\desktop\vs\basic programmes\VowelOrConstant\obj\Debug\net6.0\VowelOrConstant.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a146fe2-af82-43e1-b9d3-16df82a56236": {
+      "ProjectGuid": "5a146fe2-af82-43e1-b9d3-16df82a56236",
+      "DisplayName": "VowelOrConstant",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
